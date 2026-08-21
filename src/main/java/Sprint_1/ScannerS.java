@@ -2,9 +2,8 @@ package Sprint_1;
 
 import java.util.Scanner;
 
-public class Scanners {
-
-    public static void main(String[] args){
+public class ScannerS {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите свой любимый напиток:");
         String drinkName = scanner.nextLine();
